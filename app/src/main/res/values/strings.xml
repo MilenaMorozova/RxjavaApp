@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RxjavaApp</string>
+    <string name="start">start</string>
+    <string name="cancel">cancel</string>
+</resources>
